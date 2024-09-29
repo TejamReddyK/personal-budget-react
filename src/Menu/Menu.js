@@ -17,11 +17,7 @@ function Menu() {
         <p className='menuItem'><Link itemProp="/about" to="About">About</Link></p>
         <p className='menuItem'><Link itemProp="/login" to="Login">Login</Link></p>
     </div>
-    </nav>
-
-
-
-    
+    </nav>   
 
   );
 }
